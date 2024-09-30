@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+   
+}
+
+
+.creators {
+  
+  /*background-image: linear-gradient(#00000033, rgba(0, 0, 0, 0.2))  url("./image/google_creators_together.webp");*/
+  height: 150%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position:relative;
+  
+}
+
+.title{
+    text-align: center;
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size:900%;
+}
