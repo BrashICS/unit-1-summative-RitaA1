@@ -9,10 +9,10 @@
     "terminal.integrated.persistentSessionReviveProcess": "never",
     "workbench.startupEditor": "none",
     "git.confirmSync": false,
-    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingBrackets": "always",
     "editor.autoClosingQuotes": "never",
     "editor.wordWrap": "on",
-    "html.autoClosingTags": false,
+    "html.autoClosingTags": true,
     "html.autoCreateQuotes": false,
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
