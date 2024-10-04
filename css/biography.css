@@ -4,10 +4,7 @@ body {
   margin:0;
   padding: 0;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }
-
-
 
 .nav ul {
   list-style-type: none;
@@ -19,7 +16,6 @@ body {
 
 .nav li {
   float:left;
-
 }
 
 .nav li a{
@@ -35,23 +31,18 @@ body {
   font-weight: 400;
 }
 
-
- 
 .nav li a:hover{
   background-color: rgb(255, 170, 249);
   color: rgb(48, 33, 90);
 }
-
-
-
 
 .banner {
   position: relative;
   height: 600px;
   overflow: hidden; 
   background-size: cover;
-
 }
+
 .banner img {
   width: 100%;
 }
@@ -70,12 +61,14 @@ body {
   text-align:left;
   margin-left:10%;
 }
+
 .one{
   display:flex;
   width:80%;
   margin-right: 10%;
   margin-left: 10%;
 }
+
 .one .img1 {
   width: 600px;
   height:400px;
@@ -85,9 +78,8 @@ body {
 
 .one li {
   color: rgb(32, 56, 57);
-  font-size:15px;
+  font-size:16px;
 }
-
 
 .larry{
   color: rgb(32, 56, 57);
@@ -96,13 +88,14 @@ body {
   margin-right:10%;
   margin-top:5%;
 }
+
 .two{
   width:80%;
   margin-right: 10%;
   margin-left: 10%;
   margin-bottom:20%;
-
 }
+
 .two .img2 {
   width: 324px;
   height:400px;
@@ -112,7 +105,7 @@ body {
 
 .two li {
   color: rgb(32, 56, 57);
-  font-size:15px;
+  font-size:16px;
 }
 
 
