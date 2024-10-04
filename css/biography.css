@@ -56,9 +56,23 @@ body {
   width: 100%;
 }
 
+.topic{
+  color: rgb(32, 56, 57);
+  font-size:50px;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.name{
+  color: rgb(32, 56, 57);
+  font-size:35px;
+  text-align:left;
+  margin-left:10%;
+}
 .one{
   display:flex;
-  width:70%;
+  width:80%;
   margin-right: 10%;
   margin-left: 10%;
 }
@@ -66,7 +80,12 @@ body {
   width: 600px;
   height:400px;
   float:left;
-  margin-right: 5%;
+  margin-right: 8%;
+}
+
+.one li {
+  color: rgb(32, 56, 57);
+  font-size:15px;
 }
 
 
