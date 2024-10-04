@@ -89,3 +89,29 @@ body {
 }
 
 
+.larry{
+  color: rgb(32, 56, 57);
+  font-size:35px;
+  text-align:right;
+  margin-right:10%;
+  margin-top:5%;
+}
+.two{
+  /*display:flex;*/
+  width:80%;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.two .img2 {
+  width: 324px;
+  height:400px;
+  float:right;
+  margin-left: 8%;
+}
+
+.two li {
+  color: rgb(32, 56, 57);
+  font-size:15px;
+}
+
+
