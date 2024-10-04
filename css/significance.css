@@ -7,8 +7,6 @@ body {
 
 }
 
-
-
 .nav ul {
     list-style-type: none;
     margin: 0%;
@@ -19,7 +17,6 @@ body {
   
   .nav li {
     float:left;
-
   }
   
   .nav li a{
@@ -41,21 +38,20 @@ body {
     color: rgb(48, 33, 90);
   }
 
-  
   .banner {
     position: relative;
     height: 600px;
     overflow: hidden; 
     background-size: cover;
-
   }
+
   .banner img {
     width: 100%;
   }
 
   .title {
     color: rgb(32, 56, 57);
-    font-size:40px;
+    font-size:37px;
     text-align: center;
     margin-top: 10.5%;
     margin-bottom: 7%;
@@ -72,15 +68,23 @@ body {
     margin-top: 3%;
     margin-bottom:5%;
   }
+
   .one ul li{
     color: rgb(32, 56, 57);
-    font-size:15.5px;
+    font-size:16px;
     margin-right:5%;
     margin-left:5%;
   }
 
-iframe{
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
+  iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .caption{
+    text-align: center;
+    font-size: 16px;
+    color: rgb(32, 56, 57);
+    padding-bottom: 40px;
+  }

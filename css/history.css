@@ -7,8 +7,6 @@ body {
 
 }
 
-
-
 .nav ul {
   list-style-type: none;
   margin: 0%;
@@ -19,7 +17,6 @@ body {
 
 .nav li {
   float:left;
-
 }
 
 .nav li a{
@@ -35,23 +32,18 @@ body {
   font-weight: 400;
 }
 
-
- 
 .nav li a:hover{
   background-color: rgb(255, 170, 249);
   color: rgb(48, 33, 90);
 }
-
-
-
 
 .banner {
   position: relative;
   height: 600px;
   overflow: hidden; 
   background-size: cover;
-
 }
+
 .banner img {
   width: 100%;
 }
@@ -67,12 +59,14 @@ body {
 .content {
   margin-left: 5%;
 }
+
 .content ul li a{
   text-decoration: none;
   font-size: 16.5px;
   color: rgb(32, 56, 57);
   text-align:left;
 }
+
 .content ul li a:hover {
   color:rgb(255, 110, 180);
 }
@@ -90,12 +84,14 @@ body {
   margin-left:5%;
   margin-top:6.5%;
 }
+
 .one{
   display:flex;
   width:90%;
   margin-right: 5%;
   margin-left: 5%;
 }
+
 .one .img1 {
   width: 600px;
   height:400px;
@@ -105,9 +101,8 @@ body {
 
 .one p{
   color: rgb(32, 56, 57);
-  font: size 15.5px;
+  font: size 16px;
 }
-
 
 #pagerank{
   color: rgb(32, 56, 57);
@@ -127,9 +122,10 @@ body {
 .two{
   margin-top: 4%;
 }
+
 .two ul li{
   color: rgb(32, 56, 57);
-  font-size:15.5px;
+  font-size:16px;
   margin-right:5%;
   margin-left:5%;
 }
@@ -142,11 +138,16 @@ body {
   margin-bottom:4%;
 }
 
-
 iframe{
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.caption{
+  text-align: center;
+  font-size: 16px;
+  color: rgb(32, 56, 57);
 }
 
 #alphabet {
@@ -172,6 +173,7 @@ iframe{
   margin-bottom:10%;
   margin-top:8%;
 }
+
 .three .img3 {
   width: 600px;
   height:500px;
@@ -181,6 +183,6 @@ iframe{
 
 .three p{
   color: rgb(32, 40, 57);
-  font-size:15.5px;
+  font-size:16px;
 }
 

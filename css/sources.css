@@ -33,23 +33,18 @@ body, html {
   font-weight: 400;
 }
 
-
- 
 .nav li a:hover{
   background-color: rgb(255, 170, 249);
   color: rgb(48, 33, 90);
 }
-
-
-
 
 .banner {
   position: relative;
   height: 600px;
   overflow: hidden; 
   background-size: cover;
-
 }
+
 .banner img {
   width: 100%;
 }
@@ -69,5 +64,4 @@ body, html {
   font-size: 15px;
   padding-right:5%;
   padding-bottom: 6%;
-
 }
