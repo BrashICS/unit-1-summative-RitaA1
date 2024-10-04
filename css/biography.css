@@ -97,10 +97,11 @@ body {
   margin-top:5%;
 }
 .two{
-  /*display:flex;*/
   width:80%;
   margin-right: 10%;
   margin-left: 10%;
+  margin-bottom:20%;
+
 }
 .two .img2 {
   width: 324px;
